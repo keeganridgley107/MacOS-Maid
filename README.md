@@ -1,4 +1,6 @@
 # MacOS Maid
+Keegan Ridgley Macbook Air fork 
+
 A simple shell script I run to keep my MacBook clean and patched.
 
 ## What It Does:
@@ -9,11 +11,11 @@ A simple shell script I run to keep my MacBook clean and patched.
 -   Deletes All System Logs
 -   Deletes The QuickLook files
 -   Updates And Cleans Homebrew
--   Cleans Ruby
+-   Cleans Ruby - adding git/pip/npm
 -   Removes All Docker Containers
--   Purges Memory
--   Removes known_hosts file.
--   Securely Wipes Free-space
+-   Purges Memory - adding check
+-   Removes known_hosts file - adding check
+-   Securely Wipes Free-space - adding check 
 
 ## Usage:
 -   Review for your preferences and comment out options **You** dont want.
