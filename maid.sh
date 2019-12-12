@@ -47,6 +47,12 @@ brew tap --repair > /dev/null 2>&1
 brew update > /dev/null 2>&1
 brew upgrade > /dev/null 2>&1
 
+#add section to clean git 
+
+#add section to clean node packages 
+
+# add section to clean python packages
+
 #Cleaning Up Ruby.
 printf "Cleanup up Ruby.\n"
 gem cleanup > /dev/null 2>&1
